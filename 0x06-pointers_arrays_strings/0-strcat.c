@@ -2,9 +2,10 @@
 
 /**
  * _strcat - function appends the src string to the dest string
- * overwriting the terminating null byte (\0) at the end of dest
+ * overwriting the terminating null byte at the end of dest
  * @dest: input value
  * @src: input value
+ *
  * Return: void
  */
 
